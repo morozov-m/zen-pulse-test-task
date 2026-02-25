@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* zenpulse/
+├─ App.tsx
+├─ screens/
+│   ├─ Paywall.tsx
+│   └─ Meditations.tsx
+├─ components/
+│   ├─ MeditationCard.tsx
+│   └─ MoodPicker.tsx
+├─ assets/        # картинки медитаций
+└─ utils/
+    └─ aiMock.ts  # мок для AI */
